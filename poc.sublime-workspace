@@ -1,0 +1,1633 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"mailbox"
+			],
+			[
+				"re",
+				"$resultFields〔variable〕"
+			],
+			[
+				"file",
+				"$fileHandle〔variable〕"
+			],
+			[
+				"qu",
+				"$queryTables〔variable〕"
+			],
+			[
+				"result",
+				"$resultTable〔variable〕"
+			],
+			[
+				"q",
+				"$queryTables〔variable〕"
+			],
+			[
+				"db",
+				"dbConnection"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"aja",
+				"ajaxWelcome"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ge",
+				"getAjaxContent"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"erro",
+				"error_reporting"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/public_html/startbootstrap-sb-admin-2-1.0.8/pages/index.html",
+			"settings":
+			{
+				"buffer_size": 52573,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bootstrap/css/style.css",
+			"settings":
+			{
+				"buffer_size": 149915,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/brindha/Downloads/Avone-Best-Responsive-Bootstrap-Website-Template/Avone-Best-Responsive-Bootstrap-Website-Template/contactthanks.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/brindha/Downloads/Avone-Best-Responsive-Bootstrap-Website-Template/Avone-Best-Responsive-Bootstrap-Website-Template/contactengine.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"webthemez\">\n    <title>Avone Corporate Bootstrap Responsive Web Template</title>\n	<!-- core CSS -->\n    <link href=\"css/bootstrap.min.css\" rel=\"stylesheet\">\n    <link href=\"css/font-awesome.min.css\" rel=\"stylesheet\">\n    <link href=\"fonts/icon-7-stroke/css/pe-icon-7-stroke.css\" rel=\"stylesheet\">\n\n    <link href=\"css/animate.min.css\" rel=\"stylesheet\"> \n    <link href=\"css/prettyPhoto.css\" rel=\"stylesheet\">\n    <link href=\"css/styles.css\" rel=\"stylesheet\"> \n    <!--[if lt IE 9]>\n    <script src=\"js/html5shiv.js\"></script>\n    <script src=\"js/respond.min.js\"></script>\n    <![endif]-->       \n    <link rel=\"shortcut icon\" href=\"images/ico/favicon.ico\"> \n</head> \n\n<body id=\"home\">\n\n    <header id=\"header\">\n        <nav id=\"main-nav\" class=\"navbar navbar-default navbar-fixed-top\" role=\"banner\">\n            <div class=\"container\">\n                <div class=\"navbar-header\">\n                    <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-collapse\">\n                        <span class=\"sr-only\">Toggle navigation</span>\n                        <span class=\"icon-bar\"></span>\n                        <span class=\"icon-bar\"></span>\n                        <span class=\"icon-bar\"></span>\n                    </button>\n                    <a class=\"navbar-brand\" href=\"index.html\"><img src=\"images/logo.png\" alt=\"logo\"></a>\n                </div>\n				\n                <div class=\"collapse navbar-collapse navbar-right\">\n                    <ul class=\"nav navbar-nav\">\n                        <li class=\"scroll active\"><a href=\"#home\">Home</a></li>\n                        <li class=\"scroll\"><a href=\"#features\">Features</a></li>\n                        <li class=\"scroll\"><a href=\"#about\">About</a></li>\n                        <li class=\"scroll\"><a href=\"#services\">Services</a></li>\n                        <li class=\"scroll\"><a href=\"#portfolio\">Portfolio</a></li>\n                        <li class=\"scroll\"><a href=\"#our-team\">Team</a></li>\n                        <li class=\"scroll\"><a href=\"#pricing\">Pricing</a></li>\n                        <li class=\"scroll\"><a href=\"#contact-us\">Contact</a></li>                        \n                    </ul>\n                </div>\n            </div><!--/.container-->\n        </nav><!--/nav-->\n    </header><!--/header-->\n\n    <section id=\"hero-banner\">\n             <div class=\"banner-inner\">\n                    <div class=\"container\">\n                        <div class=\"row\">\n                            <div class=\"col-sm-6\">\n                                 \n                                    <h2>The Best Modern Template</h2>\n                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et  dolore.</p>\n                                    <a class=\"btn btn-primary btn-lg\" href=\"#contact-us\">Get In Touch</a>\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n    </section><!--/#main-slider-->\n\n    <section id=\"hero-text\" class=\"wow fadeIn\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-sm-9\">\n                    <h2>Our Best Modern Bootstrap Template</h2>\n                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa semper aliquam quis mattis quam. Morbi vitae tortor tempus, placerat leo et, suscipit lectus. Phasellus ut euismod massa, eu eleifend ipsum. \n                    </p>\n                </div>\n                <div class=\"col-sm-3 text-right\">\n                    <a class=\"btn btn-primary btn-lg\" href=\"#\">Get a Quote</a>\n                </div>\n            </div>\n        </div>\n    </section><!--/#hero-text-->\n\n    <section id=\"features\">\n        <div class=\"container\">\n            <div class=\"section-header\">\n                <h2 class=\"section-title text-center wow fadeInDown\">Best Features</h2> \n				<p class=\"text-center wow fadeInDown\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>\n            </div>\n            <div class=\"row\">               \n                <div class=\"col-md-6\">\n                    <div class=\"media service-box wow fadeInRight\">\n                        <div class=\"pull-left\">\n                            <i class=\"pe-7s-config\"></i>\n                        </div>\n                        <div class=\"media-body\">\n                            <h4 class=\"media-heading\">User Research</h4>\n                            <p>Fusce non fermentum mi. Praesent vel lobortis elit. Nulla sodales, risus quis sollicitudin iaculis, felis dolor aliquet purus, eget elementum velit nunc eu dolor. </p>\n                        </div>\n                    </div>\n\n                    <div class=\"media service-box wow fadeInRight\">\n                        <div class=\"pull-left\">\n                            <i class=\"pe-7s-cash\"></i>\n                        </div>\n                        <div class=\"media-body\">\n                            <h4 class=\"media-heading\">Visual Designing</h4>\n                            <p>Fusce non fermentum mi. Praesent vel lobortis elit. Nulla sodales, risus quis sollicitudin iaculis, felis dolor aliquet purus, eget elementum velit nunc eu dolor.</p>\n                        </div>\n                    </div>\n</div>\n<div class=\"col-md-6\">\n                    <div class=\"media service-box wow fadeInRight\">\n                        <div class=\"pull-left\">\n                            <i class=\"pe-7s-volume\"></i>\n                        </div>\n                        <div class=\"media-body\">\n                            <h4 class=\"media-heading\">UI Development</h4>\n                            <p>Fusce non fermentum mi. Praesent vel lobortis elit. Nulla sodales, risus quis sollicitudin iaculis, felis dolor aliquet purus, eget elementum velit nunc eu dolor. </p>\n                        </div>\n                    </div>\n\n                    <div class=\"media service-box wow fadeInRight\">\n                        <div class=\"pull-left\">\n                            <i class=\"pe-7s-signal\"></i>\n                        </div>\n                        <div class=\"media-body\">\n                            <h4 class=\"media-heading\">Quality Test</h4>\n                            <p>Fusce non fermentum mi. Praesent vel lobortis elit. Nulla sodales, risus quis sollicitudin iaculis, felis dolor aliquet purus, eget elementum velit nunc eu dolor. </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </section>\n\n <section id=\"about\">\n        <div class=\"container\">\n\n            <div class=\"section-header\">\n                <h2 class=\"section-title text-center wow fadeInDown\">About Us</h2>\n                <p class=\"text-center wow fadeInDown\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>\n            </div>\n\n            <div class=\"row\">\n                <div class=\"col-sm-6 wow fadeInLeft\">\n                  <img class=\"img-responsive\" src=\"images/about.png\" alt=\"\">\n                </div>\n\n                <div class=\"col-sm-6 wow fadeInRight\">\n                    <h3 class=\"column-title\">Our Company</h3>\n                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa semper aliquam quis mattis quam. Morbi vitae tortor tempus, placerat leo et, suscipit lectus. Phasellus ut euismod massa, eu eleifend ipsum.</p>\n\n                    <p>Nulla eu neque commodo, dapibus dolor eget, dictum arcu. In nec purus eu llus consequat ultricies. Donec feugiat tempor turpis, rutrum sagittis mi venenatis at. Sed molestie lorem a blandit congue. Consequat ultricies. Donec feugiat tempor turpis, rutrum sagittis mi venenatis at. Sed molestie lorem a blandit congue. Ut pellentesque odio quis leo volutpat, vitae vulputate felis condimentum. </p>\n\n					<p>Praesent vulputate fermentum lorem, id rhoncus sem vehicula eu. Quisque ullamcorper, orci adipiscing auctor viverra, velit arcu malesuada metus, in volutpat tellus sem at justo.</p>\n \n                </div>\n            </div>\n        </div>\n    </section><!--/#about-->\n\n    <section id=\"services\" >\n        <div class=\"container\">\n\n            <div class=\"section-header\">\n                <h2 class=\"section-title text-center wow fadeInDown\">Our Services</h2>\n                <p class=\"text-center wow fadeInDown\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>\n            </div>\n\n            <div class=\"row\">\n                <div class=\"features\">\n                    <div class=\"col-md-4 col-sm-6 wow fadeInUp\" data-wow-duration=\"300ms\" data-wow-delay=\"0ms\">\n                        <div class=\"media service-box\">\n                            <div class=\"pull-left\">\n                                <i class=\"pe-7s-network\"></i>\n                            </div>\n                            <div class=\"media-body\">\n                                <h4 class=\"media-heading\">Mobile App</h4>\n                                <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>\n                            </div>\n                        </div>\n                    </div><!--/.col-md-4-->\n\n                    <div class=\"col-md-4 col-sm-6 wow fadeInUp\" data-wow-duration=\"300ms\" data-wow-delay=\"100ms\">\n                        <div class=\"media service-box\">\n                            <div class=\"pull-left\">\n                                <i class=\"pe-7s-plane\"></i>\n                            </div>\n                            <div class=\"media-body\">\n                                <h4 class=\"media-heading\">Custom App</h4>\n                                <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>\n                            </div>\n                        </div>\n                    </div><!--/.col-md-4-->\n\n                    <div class=\"col-md-4 col-sm-6 wow fadeInUp\" data-wow-duration=\"300ms\" data-wow-delay=\"200ms\">\n                        <div class=\"media service-box\">\n                            <div class=\"pull-left\">\n                                <i class=\"pe-7s-musiclist\"></i>\n                            </div>\n                            <div class=\"media-body\">\n                                <h4 class=\"media-heading\">E-Commerce</h4>\n                                <p>Morbi vitae tortor tempus, placerat leo et, suscipit lectus. Phasellus ut euismod massa, eu eleifend ipsum.</p>\n                            </div>\n                        </div>\n                    </div><!--/.col-md-4-->\n                \n                    <div class=\"col-md-4 col-sm-6 wow fadeInUp\" data-wow-duration=\"300ms\" data-wow-delay=\"300ms\">\n                        <div class=\"media service-box\">\n                            <div class=\"pull-left\">\n                                <i class=\"pe-7s-global\"></i>\n                            </div>\n                            <div class=\"media-body\">\n                                <h4 class=\"media-heading\">CMS App</h4>\n                                <p>Morbi vitae tortor tempus, placerat leo et, suscipit lectus. Phasellus ut euismod massa, eu eleifend ipsum.</p>\n                            </div>\n                        </div>\n                    </div><!--/.col-md-4-->\n\n                    <div class=\"col-md-4 col-sm-6 wow fadeInUp\" data-wow-duration=\"300ms\" data-wow-delay=\"400ms\">\n                        <div class=\"media service-box\">\n                            <div class=\"pull-left\">\n                                <i class=\"pe-7s-culture\"></i>\n                            </div>\n                            <div class=\"media-body\">\n                                <h4 class=\"media-heading\">Product Dev</h4>\n                                <p>Morbi vitae tortor tempus, placerat leo et, suscipit lectus. Phasellus ut euismod massa, eu eleifend ipsum.</p>\n                            </div>\n                        </div>\n                    </div><!--/.col-md-4-->\n\n                    <div class=\"col-md-4 col-sm-6 wow fadeInUp\" data-wow-duration=\"300ms\" data-wow-delay=\"500ms\">\n                        <div class=\"media service-box\">\n                            <div class=\"pull-left\">\n                                <i class=\"pe-7s-alarm\"></i>\n                            </div>\n                            <div class=\"media-body\">\n                                <h4 class=\"media-heading\">SharePoint</h4>\n                                <p>Morbi vitae tortor tempus, placerat leo et, suscipit lectus. Phasellus ut euismod massa, eu eleifend ipsum.</p>\n                            </div>\n                        </div>\n                    </div><!--/.col-md-4-->\n                </div>\n            </div><!--/.row-->    \n        </div><!--/.container-->\n    </section><!--/#services-->\n\n    <section id=\"portfolio\">\n        <div class=\"container\">\n            <div class=\"section-header\">\n                <h2 class=\"section-title text-center wow fadeInDown\">Our Works</h2>\n                <p class=\"text-center wow fadeInDown\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>\n            </div>\n\n            <div class=\"text-center\">\n                <ul class=\"portfolio-filter\">\n                    <li><a class=\"active\" href=\"#\" data-filter=\"*\">All Works</a></li>\n                    <li><a href=\"#\" data-filter=\".designing\">Designing</a></li>\n                    <li><a href=\"#\" data-filter=\".mobile\">Mobile App</a></li>\n                    <li><a href=\"#\" data-filter=\".development\">Development</a></li>\n                </ul><!--/#portfolio-filter-->\n            </div>\n\n            <div class=\"portfolio-items\">\n                <div class=\"portfolio-item designing\">\n                    <div class=\"portfolio-item-inner\">\n                        <img class=\"img-responsive\" src=\"images/portfolio/01.jpg\" alt=\"\">\n                        <div class=\"portfolio-info\">\n                            <h3>Project Name</h3>\n                            Some description..\n                            <a class=\"preview\" href=\"images/portfolio/01.jpg\" rel=\"prettyPhoto\"><i class=\"fa fa-eye\"></i></a>\n                        </div>\n                    </div>\n                </div><!--/.portfolio-item-->\n\n                <div class=\"portfolio-item mobile development\">\n                    <div class=\"portfolio-item-inner\">\n                        <img class=\"img-responsive\" src=\"images/portfolio/02.jpg\" alt=\"\">\n                        <div class=\"portfolio-info\">\n                            <h3>Project Name</h3>\n                             Some description..\n                            <a class=\"preview\" href=\"images/portfolio/02.jpg\" rel=\"prettyPhoto\"><i class=\"fa fa-eye\"></i></a>\n                        </div>\n                    </div>\n                </div><!--/.portfolio-item-->\n\n                <div class=\"portfolio-item designing\">\n                    <div class=\"portfolio-item-inner\">\n                        <img class=\"img-responsive\" src=\"images/portfolio/03.jpg\" alt=\"\">\n                        <div class=\"portfolio-info\">\n                            <h3>Project Name</h3>\n                             Some description..\n                            <a class=\"preview\" href=\"images/portfolio/03.jpg\" rel=\"prettyPhoto\"><i class=\"fa fa-eye\"></i></a>\n                        </div>\n                    </div>\n                </div><!--/.portfolio-item-->\n\n                <div class=\"portfolio-item mobile\">\n                    <div class=\"portfolio-item-inner\">\n                        <img class=\"img-responsive\" src=\"images/portfolio/04.jpg\" alt=\"\">\n                        <div class=\"portfolio-info\">\n                            <h3>Project Name</h3>\n                            Some description..\n                            <a class=\"preview\" href=\"images/portfolio/04.jpg\" rel=\"prettyPhoto\"><i class=\"fa fa-eye\"></i></a>\n                        </div>\n                    </div>\n                </div><!--/.portfolio-item-->\n\n                <div class=\"portfolio-item designing development\">\n                    <div class=\"portfolio-item-inner\">\n                        <img class=\"img-responsive\" src=\"images/portfolio/05.jpg\" alt=\"\">\n                        <div class=\"portfolio-info\">\n                            <h3>Project Name</h3>\n                             Some description..\n                            <a class=\"preview\" href=\"images/portfolio/05.jpg\" rel=\"prettyPhoto\"><i class=\"fa fa-eye\"></i></a>\n                        </div>\n                    </div>\n                </div><!--/.portfolio-item-->\n\n                <div class=\"portfolio-item mobile\">\n                    <div class=\"portfolio-item-inner\">\n                        <img class=\"img-responsive\" src=\"images/portfolio/06.jpg\" alt=\"\">\n                        <div class=\"portfolio-info\">\n                            <h3>Project Name</h3>\n                             Some description..\n                            <a class=\"preview\" href=\"images/portfolio/06.jpg\" rel=\"prettyPhoto\"><i class=\"fa fa-eye\"></i></a>\n                        </div>\n                    </div>\n                </div><!--/.portfolio-item-->\n\n                <div class=\"portfolio-item designing development\">\n                    <div class=\"portfolio-item-inner\">\n                        <img class=\"img-responsive\" src=\"images/portfolio/07.jpg\" alt=\"\">\n                        <div class=\"portfolio-info\">\n                            <h3>Project Name</h3>\n                             Some description..\n                            <a class=\"preview\" href=\"images/portfolio/07.jpg\" rel=\"prettyPhoto\"><i class=\"fa fa-eye\"></i></a>\n                        </div>\n                    </div>\n                </div><!--/.portfolio-item-->\n\n                <div class=\"portfolio-item mobile\">\n                    <div class=\"portfolio-item-inner\">\n                        <img class=\"img-responsive\" src=\"images/portfolio/08.jpg\" alt=\"\">\n                        <div class=\"portfolio-info\">\n                            <h3>Project Name</h3>\n                             Some description..\n                            <a class=\"preview\" href=\"images/portfolio/08.jpg\" rel=\"prettyPhoto\"><i class=\"fa fa-eye\"></i></a>\n                        </div>\n                    </div>\n                </div><!--/.portfolio-item-->\n            </div>\n        </div><!--/.container-->\n    </section><!--/#portfolio-->\n\n   \n   \n    <section id=\"our-team\">\n        <div class=\"container\">\n            <div class=\"section-header\">\n                <h2 class=\"section-title text-center wow fadeInDown\">Who We Are</h2>\n                <p class=\"text-center wow fadeInDown\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>\n            </div>\n			\n			 	\n            <div class=\"row text-center\">\n                <div class=\"col-md-3 col-sm-6 col-xs-12\">\n                    <div class=\"team-member wow fadeInUp\" data-wow-duration=\"400ms\" data-wow-delay=\"0ms\">\n                        <div class=\"team-img\">\n                            <img class=\"img-responsive\" src=\"images/team/01.jpg\" alt=\"\">\n                        </div>\n                        <div class=\"team-info\">\n                            <h3>John Deo</h3>\n                            <span>Founder</span>\n							<p>Personalized trai access rcises, amin ders  malesuada id dolor non, elemen tum auctor arcu. Cras consectet</p>\n                        </div> \n                        <ul class=\"social-icons\">\n                            <li><a href=\"#\"><i class=\"fa fa-facebook\"></i></a></li>\n                            <li><a href=\"#\"><i class=\"fa fa-twitter\"></i></a></li>\n                            <li><a href=\"#\"><i class=\"fa fa-google-plus\"></i></a></li>\n                            <li><a href=\"#\"><i class=\"fa fa-linkedin\"></i></a></li>\n                        </ul>\n                    </div>\n                </div>\n                <div class=\"col-md-3 col-sm-6 col-xs-12\">\n                    <div class=\"team-member wow fadeInUp\" data-wow-duration=\"400ms\" data-wow-delay=\"100ms\">\n                        <div class=\"team-img\">\n                            <img class=\"img-responsive\" src=\"images/team/02.jpg\" alt=\"\">\n                        </div>\n                        <div class=\"team-info\">\n                            <h3>Mike Timobbs</h3>\n                            <span>President</span>\n							<p>Personalized trai access rcises, amin ders  malesuada id dolor non, elemen tum auctor arcu. Cras consectet</p>\n                        </div> \n                        <ul class=\"social-icons\">\n                            <li><a href=\"#\"><i class=\"fa fa-facebook\"></i></a></li>\n                            <li><a href=\"#\"><i class=\"fa fa-twitter\"></i></a></li>\n                            <li><a href=\"#\"><i class=\"fa fa-google-plus\"></i></a></li>\n                            <li><a href=\"#\"><i class=\"fa fa-linkedin\"></i></a></li>\n                        </ul>\n                    </div>\n                </div>\n                <div class=\"col-md-3 col-sm-6 col-xs-12\">\n                    <div class=\"team-member wow fadeInUp\" data-wow-duration=\"400ms\" data-wow-delay=\"200ms\">\n                        <div class=\"team-img\">\n                            <img class=\"img-responsive\" src=\"images/team/03.jpg\" alt=\"\">\n                        </div>\n                        <div class=\"team-info\">\n                            <h3>Remo Silvaus</h3>\n                            <span>Architect</span>\n							<p>Personalized trai access rcises, amin ders  malesuada id dolor non, elemen tum auctor arcu. Cras consectet</p>\n                        </div> \n                        <ul class=\"social-icons\">\n                            <li><a href=\"#\"><i class=\"fa fa-facebook\"></i></a></li>\n                            <li><a href=\"#\"><i class=\"fa fa-twitter\"></i></a></li>\n                            <li><a href=\"#\"><i class=\"fa fa-google-plus\"></i></a></li>\n                            <li><a href=\"#\"><i class=\"fa fa-linkedin\"></i></a></li>\n                        </ul>\n                    </div>\n                </div>\n                <div class=\"col-md-3 col-sm-6 col-xs-12\">\n                    <div class=\"team-member wow fadeInUp\" data-wow-duration=\"400ms\" data-wow-delay=\"300ms\">\n                        <div class=\"team-img\">\n                            <img class=\"img-responsive\" src=\"images/team/04.jpg\" alt=\"\">\n                        </div>\n                        <div class=\"team-info\">\n                            <h3>Niscal Deon</h3>\n                            <span>Manager</span>\n							<p>Personalized trai access rcises, amin ders  malesuada id dolor non, elemen tum auctor arcu. Cras consectet</p>\n                        </div> \n                        <ul class=\"social-icons\">\n                            <li><a href=\"#\"><i class=\"fa fa-facebook\"></i></a></li>\n                            <li><a href=\"#\"><i class=\"fa fa-twitter\"></i></a></li>\n                            <li><a href=\"#\"><i class=\"fa fa-google-plus\"></i></a></li>\n                            <li><a href=\"#\"><i class=\"fa fa-linkedin\"></i></a></li>\n                        </ul>\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </section><!--/#our-team-->\n\n    <section id=\"business-stats\">\n        <div class=\"container\">\n            <div class=\"section-header\">\n                <h2 class=\"section-title text-center wow fadeInDown\">Business Stats</h2>\n                <p class=\"text-center wow fadeInDown\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>\n            </div>\n\n            <div class=\"row text-center\">\n                <div class=\"col-md-3 col-sm-6 col-xs-12\">\n                    <div class=\"wow fadeInUp\" data-wow-duration=\"400ms\" data-wow-delay=\"0ms\">\n                        <div class=\"business-stats\" data-digit=\"6850\" data-duration=\"1000\"></div>\n                        <strong>Clients</strong>\n                    </div>\n                </div>\n                <div class=\"col-md-3 col-sm-6 col-xs-12\">\n                    <div class=\"wow fadeInUp\" data-wow-duration=\"400ms\" data-wow-delay=\"100ms\">\n                        <div class=\"business-stats\" data-digit=\"1465\" data-duration=\"1000\"></div>\n                        <strong>Completed</strong>\n                    </div>\n                </div>\n                <div class=\"col-md-3 col-sm-6 col-xs-12\">\n                    <div class=\"wow fadeInUp\" data-wow-duration=\"400ms\" data-wow-delay=\"200ms\">\n                        <div class=\"business-stats\" data-digit=\"4325\" data-duration=\"1000\"></div>\n                        <strong>In Progress</strong>\n                    </div>\n                </div>\n                <div class=\"col-md-3 col-sm-6 col-xs-12\">\n                    <div class=\"wow fadeInUp\" data-wow-duration=\"400ms\" data-wow-delay=\"300ms\">\n                        <div class=\"business-stats\" data-digit=\"2568\" data-duration=\"1000\"></div>\n                        <strong>Revenue</strong>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </section><!--/#business-stats-->\n\n    <section id=\"pricing\">\n        <div class=\"container\">\n            <div class=\"section-header\">\n                <h2 class=\"section-title text-center wow fadeInDown\">Pricing</h2>\n                <p class=\"text-center wow fadeInDown\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>\n            </div>\n\n            <div class=\"row\">\n                <div class=\"col-md-3 col-sm-6 col-xs-12\">\n                    <div class=\"wow zoomIn\" data-wow-duration=\"400ms\" data-wow-delay=\"0ms\">\n                        <ul class=\"pricing\">\n                            <li class=\"plan-header\">\n                                <div class=\"price-duration\">\n                                    <span class=\"price\">\n                                        $45\n                                    </span>\n                                    <span class=\"duration\">\n                                        per month\n                                    </span>\n                                </div>\n\n                                <div class=\"plan-name\">\n                                    Basic\n                                </div>\n                            </li>\n                            <li><strong>1</strong> DOMAIN</li>\n                            <li><strong>100GB</strong> DISK SPACE</li>\n                            <li><strong>UNLIMITED</strong> BANDWIDTH</li>\n                            <li>SHARED SSL CERTIFICATE</li>\n                            <li><strong>10</strong> EMAIL ADDRESS</li>\n                            <li><strong>24/7</strong> SUPPORT</li>\n                            <li class=\"plan-purchase\"><a class=\"btn btn-primary\" href=\"#\">Get It Now!</a></li>\n                        </ul>\n                    </div>\n                </div>\n                <div class=\"col-md-3 col-sm-6 col-xs-12\">\n                    <div class=\"wow zoomIn\" data-wow-duration=\"400ms\" data-wow-delay=\"200ms\">\n                        <ul class=\"pricing featured\">\n                            <li class=\"plan-header\">\n                                <div class=\"price-duration\">\n                                    <span class=\"price\">\n                                        $85\n                                    </span>\n                                    <span class=\"duration\">\n                                        per month\n                                    </span>\n                                </div>\n\n                                <div class=\"plan-name\">\n                                    Business\n                                </div>\n                            </li>\n                            <li><strong>5</strong> DOMAIN</li>\n                            <li><strong>500GB</strong> DISK SPACE</li>\n                            <li><strong>UNLIMITED</strong> BANDWIDTH</li>\n                            <li>SHARED SSL CERTIFICATE</li>\n                            <li><strong>30</strong> EMAIL ADDRESS</li>\n                            <li><strong>24/7</strong> SUPPORT</li>\n                            <li class=\"plan-purchase\"><a class=\"btn btn-primary\" href=\"#\">Get It Now!</a></li>\n                        </ul>\n                    </div>\n                </div>\n                <div class=\"col-md-3 col-sm-6 col-xs-12\">\n                    <div class=\"wow zoomIn\" data-wow-duration=\"400ms\" data-wow-delay=\"400ms\">\n                        <ul class=\"pricing\">\n                            <li class=\"plan-header\">\n                                <div class=\"price-duration\">\n                                    <span class=\"price\">\n                                        $125\n                                    </span>\n                                    <span class=\"duration\">\n                                        per month\n                                    </span>\n                                </div>\n\n                                <div class=\"plan-name\">\n                                    Professional\n                                </div>\n                            </li>\n                            <li><strong>10</strong> DOMAIN</li>\n                            <li><strong>2GB</strong> DISK SPACE</li>\n                            <li><strong>UNLIMITED</strong> BANDWIDTH</li>\n                            <li>SHARED SSL CERTIFICATE</li>\n                            <li><strong>50</strong> EMAIL ADDRESS</li>\n                            <li><strong>24/7</strong> SUPPORT</li>\n                            <li class=\"plan-purchase\"><a class=\"btn btn-primary\" href=\"#\">Get It Now!</a></li>\n                        </ul>\n                    </div>\n                </div>\n                <div class=\"col-md-3 col-sm-6 col-xs-12\">\n                    <div class=\"wow zoomIn\" data-wow-duration=\"400ms\" data-wow-delay=\"600ms\">\n                        <ul class=\"pricing\">\n                            <li class=\"plan-header\">\n                                <div class=\"price-duration\">\n                                    <span class=\"price\">\n                                        $185\n                                    </span>\n                                    <span class=\"duration\">\n                                        per month\n                                    </span>\n                                </div>\n\n                                <div class=\"plan-name\">\n                                    Extended\n                                </div>\n                            </li>\n                            <li><strong>15</strong> DOMAIN</li>\n                            <li><strong>10GB</strong> DISK SPACE</li>\n                            <li><strong>UNLIMITED</strong> BANDWIDTH</li>\n                            <li>SHARED SSL CERTIFICATE</li>\n                            <li><strong>100</strong> EMAIL ADDRESS</li>\n                            <li><strong>24/7</strong> SUPPORT</li>\n                            <li class=\"plan-purchase\"><a class=\"btn btn-primary\" href=\"#\">Get It Now!</a></li>\n                        </ul>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </section><!--/#pricing-->\n\n    <section class=\"testimonial-area\" id=\"testimonial\">\n			<div class=\"container\">\n				<div class=\"section-header\">\n                <h2 class=\"section-title text-center wow fadeInDown\">Testimonial</h2>\n                <p class=\"text-center wow fadeInDown\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>\n            </div>\n				<div class=\"row\">\n					<div class=\"col-md-4\">\n						<div class=\"single-testimonial animate_fade_in\" style=\"opacity: 1; right: 0px;\">\n							<div class=\"row\">\n								<div class=\"col-xs-12\">\n									<blockquote>Lorem Ipsuis no simply random text. It has roots in a piece of classical Layears old. belief, Lorem Ipsuis not simply</blockquote>\n								</div>\n							</div>\n							<div class=\"row\">\n								<div class=\"col-xs-3\">\n									<img src=\"images/pic1.jpg\" alt=\"client\">\n								</div>\n								<div class=\"col-xs-9 half-gutter\">\n									<h5>John Bond</h5>\n									<h6>Lorem Ipsuis simply</h6>\n								</div>\n							</div>\n						</div>\n					</div>\n					<div class=\"col-md-4\">\n						<div class=\"single-testimonial animate_fade_in\" style=\"opacity: 1; right: 0px;\">\n							<div class=\"row\">\n								<div class=\"col-xs-12\">\n									<blockquote>Lorem Ipsuis no simply random text. It has roots in a piece of classical Layears old. belief, Lorem Ipsuis not simply</blockquote>\n								</div>\n							</div>\n							<div class=\"row\">\n								<div class=\"col-xs-3\">\n									<img src=\"images/pic2.jpg\" alt=\"client\">\n								</div>\n								<div class=\"col-xs-9 half-gutter\">\n									<h5>John Bond</h5>\n									<h6>Lorem Ipsuis simply</h6>\n								</div>\n							</div>\n						</div>\n					</div>\n					<div class=\"col-md-4\">\n						<div class=\"single-testimonial animate_fade_in\" style=\"opacity: 1; right: 0px;\">\n							<div class=\"row\">\n								<div class=\"col-xs-12\">\n									<blockquote>Lorem Ipsuis no simply random text. It has roots in a piece of classical Layears old. belief, Lorem Ipsuis not simply</blockquote>\n								</div>\n							</div>\n							<div class=\"row\">\n								<div class=\"col-xs-3\">\n									<img src=\"images/pic1.jpg\" alt=\"client\">\n								</div>\n								<div class=\"col-xs-9 half-gutter\">\n									<h5>John Bond</h5>\n									<h6>Lorem Ipsuis simply</h6>\n								</div>\n							</div>\n						</div>\n					</div>\n				</div>\n			</div>\n		</section>\n    <section id=\"contact-us\">\n        <div class=\"container\">\n            <div class=\"section-header\">\n                <h2 class=\"section-title text-center wow fadeInDown\">Contact Us</h2>\n                <p class=\"text-center wow fadeInDown\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>\n            </div>\n        </div>\n    </section><!--/#contact-us-->\n\n\n    <section id=\"contact\">\n        \n        <div class=\"container\">\n            <div class=\"container contact-info\">\n                <div class=\"row\">\n				  <div class=\"col-sm-4 col-md-4\">\n                        <div class=\"contact-form\">\n                            <h3>Contact Info</h3>\n\n                            <address>\n                              <strong>Avone Company, Inc.</strong><br>\n                              12345 NewYork, Street 125<br>\n                              United States 94107<br>\n                              <abbr title=\"Phone\">P:</abbr> (123) 456-7890\n                            </address>\n					</div></div>\n                    <div class=\"col-sm-8 col-md-8\">\n                        <div class=\"contact-form\">\n                         <form method=\"POST\" id=\"contact-form\" class=\"form-horizontal\" action=\"contactengine.php\" onSubmit=\"alert('Thank you for your feedback!');\">\n							<div class=\"form-group\">\n							<input type=\"text\" name=\"Name\" id=\"Name\" class=\"form-control wow fadeInUp\" placeholder=\"Name\" required/>\n							</div>\n							<div class=\"form-group\">\n							<input type=\"text\" name=\"Email\" id=\"Email\" class=\"form-control wow fadeInUp\" placeholder=\"Email\" required/>\n							</div>					\n							<div class=\"form-group\">\n							<textarea name=\"Message\" rows=\"10\" cols=\"20\" id=\"Message\" class=\"form-control input-message wow fadeInUp\"  placeholder=\"Message\" required></textarea>\n							</div>\n							<div class=\"form-group\">\n							<input type=\"submit\" name=\"submit\" value=\"Submit\" class=\"btn\"/>\n							</div>\n						</form>	\n						 \n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>   \n   </section><!--/#bottom-->\n\n    <footer id=\"footer\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-sm-6\">\n                    &copy; 2018 Company Name. Template by <a target=\"_blank\" href=\"http://webthemez.com/\" title=\"Free Bootstrap Themes and HTML Templates\">WebThemez.com</a>\n                </div>\n                <div class=\"col-sm-6\">\n                    <ul class=\"social-icons\">\n                        <li><a href=\"#\"><i class=\"fa fa-facebook\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-twitter\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-google-plus\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-linkedin\"></i></a></li> \n                        <li><a href=\"#\"><i class=\"fa fa-youtube\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-github\"></i></a></li>\n                    </ul>\n                </div>\n            </div>\n        </div>\n    </footer><!--/#footer-->\n\n    <script src=\"js/jquery.js\"></script>\n    <script src=\"js/bootstrap.min.js\"></script> \n    <script src=\"js/mousescroll.js\"></script>\n    <script src=\"js/smoothscroll.js\"></script>\n    <script src=\"js/jquery.prettyPhoto.js\"></script>\n    <script src=\"js/jquery.isotope.min.js\"></script>\n    <script src=\"js/jquery.inview.min.js\"></script>\n    <script src=\"js/data-wow-delay.min.js\"></script>\n    <script src=\"js/custom-scripts.js\"></script>\n</body>\n</html>",
+			"file": "/C/xampp/htdocs/public_html/bootstraptemp/index.html",
+			"file_size": 38076,
+			"file_write_time": 130997523321033391,
+			"settings":
+			{
+				"buffer_size": 38087,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/public_html/bootstraptemp/js/wow.min.js",
+			"settings":
+			{
+				"buffer_size": 4776,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/public_html/bootstraptemp/js/custom-scripts.js",
+			"settings":
+			{
+				"buffer_size": 3644,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/brindha/AppData/Local/Temp/Temp1_auth0-PHP-sample.zip/dotenv-loader.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/views/message/message.php",
+			"settings":
+			{
+				"buffer_size": 3259,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/public_html/bootstraptemp/contactengine.php",
+			"settings":
+			{
+				"buffer_size": 873,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"selected_items":
+		[
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/public_html/icampus_source/protected/views/configurations/index.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/views/message/_menu.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/views/message/mailbox.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/config/main.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/views/site/index.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/views/site/left_side.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/views/configurations/left_side.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/rights/views/assignment/view.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/views/layouts/main.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/controllers/MessageController.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/views/layouts/none.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/views/default/left_side.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/dashboard/views/layouts/none.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/rights/views/_menu.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/rights/views/_menu_config.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/rights/views/layouts/main.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/rights/views/layouts/main_config.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/rights/views/_flash.php",
+		"/C/xampp/htdocs/public_html/POC/xml/dbbackup.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/components/UserIdentity.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/views/message/message.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/dashboard/views/default/left_side.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/dashboard/views/default/index.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/dashboard/controllers/DefaultController.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/dashboard/DashboardModule.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/user/controllers/LoginController.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/rights/views/authItem/permissions.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/rights/controllers/AuthItemController.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/components/LocalTime.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/components/Controller.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/controllers/UserController.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/views/message/_flash.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/user/controllers/DefaultController.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/dashboard/views/default/calendar.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/user/controllers/AccountProfileController.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/user/controllers/LogoutController.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/user/controllers/AdminController.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/views/message/_mailbox.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/rights/controllers/InstallController.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/rights/controllers/AssignmentController.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/MailboxModule.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/rights/RightsModule.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/rights/data/schema.sql",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/rights/components/Rights.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/user/controllers/UserController.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/user/views/user/index.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/user/views/layouts/none.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/user/views/admin/index.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/models/Mailbox.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/user/views/default/left_side.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/user/views/user/login.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/controllers/SiteController.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/views/default/parentleft.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/controllers/AjaxController.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/views/site/login.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/views/layouts/studentmain.php",
+		"/C/xampp/htdocs/public_html/tasks/modules.txt",
+		"/C/xampp/htdocs/public_html/angularjs/contacts-demo/index.html",
+		"/C/xampp/htdocs/public_html/POC/xml/dbbackup.xml",
+		"/C/xampp/htdocs/public_html/immaculate/protected/modules/sms/controllers/SendsmsController.php",
+		"/C/xampp/htdocs/public_html/immaculate/protected/modules/sms/controllers/SendController.php",
+		"/C/xampp/htdocs/public_html/immaculate/protected/views/configurations/left_side.php",
+		"/C/xampp/htdocs/public_html/immaculate/protected/views/configurations/index.php",
+		"/C/xampp/htdocs/public_html/icampus_source/protected/modules/employees/views/employees/_form.php",
+		"/C/xampp/htdocs/public_html/immaculate/protected/controllers/AttendancesController.php",
+		"/C/xampp/htdocs/public_html/Old/immaculate/protected/modules/attendance/controllers/DefaultController.php",
+		"/C/xampp/htdocs/public_html/immaculate/protected/modules/attendance/views/default/index.php",
+		"/C/xampp/htdocs/public_html/icampus/protected/config/environment.php",
+		"/C/xampp/htdocs/public_html/immaculate/protected/config/environment.php",
+		"/C/xampp/htdocs/public_html/immaculate/protected/modules/report/views/default/left_side.php",
+		"/C/xampp/htdocs/public_html/immaculate/protected/modules/report/controllers/DefaultController.php",
+		"/C/xampp/htdocs/public_html/immaculate/protected/controllers/SiteController.php",
+		"/C/xampp/htdocs/public_html/immaculate/protected/views/site/explorer.php",
+		"/C/xampp/htdocs/public_html/immaculate/protected/modules/employees/views/employees/left_side.php",
+		"/C/xampp/htdocs/public_html/immaculate/protected/modules/employees/views/default/index.php",
+		"/C/Users/brindha/Desktop/vms (1).sql",
+		"/C/Users/brindha/AppData/Local/Temp/Temp1_mailbox-v0.2.1.zip/mailbox/data/structure.sql",
+		"/C/Users/brindha/AppData/Local/Temp/Temp1_mailbox-v0.2.1.zip/mailbox/newEmptyPHP.php",
+		"/C/xampp/htdocs/public_html/BK-fees/fees/controllers/FinanceFeesController.php",
+		"/C/xampp/htdocs/public_html/BK-fees/fees/views/financeFees/_ajax_form.php",
+		"/C/xampp/htdocs/public_html/BK-fees/fees/views/default/left_side.php",
+		"/C/xampp/htdocs/public_html/BK-fees/fees/views/default/left_menu_feedefault.php",
+		"/C/xampp/htdocs/public_html/BK-fees/fees/views/default/index.php",
+		"/C/xampp/htdocs/public_html/BK-fees/fees/views/feeDefault/left_side.php",
+		"/C/xampp/htdocs/public_html/POC/FormSubmission/index.php",
+		"/C/xampp/htdocs/public_html/POC/index.php",
+		"/C/xampp/htdocs/public_html/POC/traversing.php",
+		"/C/xampp/htdocs/public_html/jQuery/traversing.php",
+		"/C/xampp/htdocs/public_html/POC/pagination/simplepagination.php",
+		"/C/xampp/htdocs/public_html/jQuery/ajax.php",
+		"/C/Users/brindha/Downloads/sendsms-1.php",
+		"/C/Users/brindha/Downloads/trigger-1.php",
+		"/C/xampp/htdocs/public_html/POC/xml/dbbackupxml",
+		"/C/xampp/htdocs/public_html/jQuery/ajaximp.php",
+		"/C/xampp/htdocs/public_html/jQuery/resource.php",
+		"/C/xampp/htdocs/public_html/jQuery/ajaxsyntax.php",
+		"/C/xampp/htdocs/public_html/jQuery/ajaxWelcome.php",
+		"/C/Users/brindha/Downloads/certificates.sql",
+		"/C/xampp/htdocs/public_html/POC/FileUpload/fileupload.php",
+		"/C/xampp/htdocs/public_html/POC/poc.sublime-project",
+		"/C/Users/brindha/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/xampp/htdocs/configuration.php",
+		"/C/xampp/htdocs/public_html/POC/dateandtime/index.php",
+		"/C/xampp/htdocs/public_html/POC/practice/months.php",
+		"/C/xampp/htdocs/public_html/POC/bootstrap/index.php",
+		"/C/xampp/htdocs/public_html/POC/bootstrap/css/style.css",
+		"/C/xampp/htdocs/public_html/POC/bootstrap/index1.php",
+		"/C/xampp/htdocs/public_html/POC/pagination/pagination.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"home",
+			"inbox",
+			"bread",
+			"returnrl",
+			"Check your mails here.",
+			"inbox",
+			"group",
+			"user",
+			"deduct_account_balance",
+			"payment",
+			"br",
+			"pagination"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/public_html/startbootstrap-sb-admin-2-1.0.8/pages/index.html",
+					"settings":
+					{
+						"buffer_size": 52573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9720.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bootstrap/css/style.css",
+					"settings":
+					{
+						"buffer_size": 149915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149915,
+								149915
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 124341.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/brindha/Downloads/Avone-Best-Responsive-Bootstrap-Website-Template/Avone-Best-Responsive-Bootstrap-Website-Template/contactthanks.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/brindha/Downloads/Avone-Best-Responsive-Bootstrap-Website-Template/Avone-Best-Responsive-Bootstrap-Website-Template/contactengine.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/xampp/htdocs/public_html/bootstraptemp/index.html",
+					"settings":
+					{
+						"buffer_size": 38087,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38004,
+								38004
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13749.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/xampp/htdocs/public_html/bootstraptemp/js/wow.min.js",
+					"settings":
+					{
+						"buffer_size": 4776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/xampp/htdocs/public_html/bootstraptemp/js/custom-scripts.js",
+					"settings":
+					{
+						"buffer_size": 3644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								286
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/brindha/AppData/Local/Temp/Temp1_auth0-PHP-sample.zip/dotenv-loader.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/xampp/htdocs/public_html/icampus_source/protected/modules/mailbox/views/message/message.php",
+					"settings":
+					{
+						"buffer_size": 3259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/xampp/htdocs/public_html/bootstraptemp/contactengine.php",
+					"settings":
+					{
+						"buffer_size": 873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								793,
+								793
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.924924924925,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}
